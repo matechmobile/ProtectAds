@@ -1,0 +1,261 @@
+[
+  {
+    "filterId": "19",
+    "name": "EasyList",
+    "countryCode": "",
+    "link": "https://easylist.to/easylist/easylist.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "18",
+    "name": "ABPVN List filter",
+    "countryCode": "VN",
+    "link": "https://abpvn.com/filter/abpvn-8cnOAi.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "22",
+    "name": "EasyList Germany",
+    "countryCode": "DE",
+    "link": "https://easylist.to/easylistgermany/easylistgermany.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "23",
+    "name": "EasyList Italy",
+    "countryCode": "IT",
+    "link": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "24",
+    "name": "EasyList Dutch",
+    "countryCode": "NL",
+    "link": "https://easylist-downloads.adblockplus.org/easylistdutch.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "25",
+    "name": "Liste FR",
+    "countryCode": "FR",
+    "link": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "26",
+    "name": "EasyList China",
+    "countryCode": "CN",
+    "link": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "27",
+    "name": "Bulgarian adblock list",
+    "countryCode": "BG",
+    "link": "https://stanev.org/abp/adblock_bg.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "28",
+    "name": "ABPindo",
+    "countryCode": "ID",
+    "link": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "29",
+    "name": "ABPindo",
+    "countryCode": "MY",
+    "link": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "30",
+    "name": "Liste AR",
+    "countryCode": "EG",
+    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "31",
+    "name": "Liste AR",
+    "countryCode": "KW",
+    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "32",
+    "name": "Liste AR",
+    "countryCode": "QA",
+    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "33",
+    "name": "Liste AR",
+    "countryCode": "SA",
+    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "34",
+    "name": "Liste AR",
+    "countryCode": "AE",
+    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "35",
+    "name": "Easylist Czech",
+    "countryCode": "CZ",
+    "link": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "36",
+    "name": "Easylist Slovak",
+    "countryCode": "SK",
+    "link": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "37",
+    "name": "Latvian List",
+    "countryCode": "LV",
+    "link": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "38",
+    "name": "EasyList Hebrew",
+    "countryCode": "IL",
+    "link": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "39",
+    "name": "EasyList Lithuania",
+    "countryCode": "LT",
+    "link": "http://margevicius.lt/easylistlithuania.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "49",
+    "name": "ABPindo",
+    "countryCode": "ID",
+    "link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "50",
+    "name": "ABPindo",
+    "countryCode": "MY",
+    "link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "51",
+    "name": "AdBlockID",
+    "countryCode": "ID",
+    "link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "52",
+    "name": "Adblock List for Finland",
+    "countryCode": "FI",
+    "link": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "53",
+    "name": "Adblock-Persian list",
+    "countryCode": "IR",
+    "link": "https://ideone.com/K452p",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "55",
+    "name": "Bulgarian adblock list",
+    "countryCode": "BG",
+    "link": "https://stanev.org/abp/adblock_bg.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "56",
+    "name": "CJX's EasyList Lite",
+    "countryCode": "CN",
+    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjxlist.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "57",
+    "name": "CJX's uBlock list",
+    "countryCode": "CN",
+    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjx-ublock.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "58",
+    "name": "CJX's Annoyance List",
+    "countryCode": "CN",
+    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjx-annoyance.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "61",
+    "name": "Adblock List for Albania",
+    "countryCode": "AL",
+    "link": "https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "70",
+    "name": "Fanboy's Swedish",
+    "countryCode": "SE",
+    "link": "https://www.fanboy.co.nz/fanboy-swedish.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "71",
+    "name": "Fanboy's Swedish",
+    "countryCode": "FI",
+    "link": "https://www.fanboy.co.nz/fanboy-swedish.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "73",
+    "name": "Fanboy's Spanish",
+    "countryCode": "ES",
+    "link": "https://www.fanboy.co.nz/fanboy-espanol.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "74",
+    "name": "Fanboy's Portuguese",
+    "countryCode": "PT",
+    "link": "https://www.fanboy.co.nz/fanboy-espanol.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "77",
+    "name": "Fanboy's Korean",
+    "countryCode": "KR",
+    "link": "https://www.fanboy.co.nz/fanboy-korean.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "78",
+    "name": "Fanboy's Indian",
+    "countryCode": "IN",
+    "link": "https://www.fanboy.co.nz/fanboy-indian.txt",
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "79",
+    "name": "Fanboy's Vietnamese",
+    "countryCode": "VN",
+    "link": "https://www.fanboy.co.nz/fanboy-vietnam.txt",
+    "easylistType": "adFilter"
+  }
+]
