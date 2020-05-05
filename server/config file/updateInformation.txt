@@ -1,261 +1,261 @@
 [
   {
-    "filterId": "19",
-    "name": "EasyList",
-    "countryCode": "",
-    "link": "https://easylist.to/easylist/easylist.txt",
-    "easylistType": "adFilter"
-  },
-  {
     "filterId": "18",
     "name": "ABPVN List filter",
     "countryCode": "VN",
-    "link": "https://abpvn.com/filter/abpvn-8cnOAi.txt",
+    "link": ["https://abpvn.com/filter/abpvn-8cnOAi.txt", "https://dl.dropboxusercontent.com/s/ccsfzf1tjngcmhs/18.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/18.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "19",
+    "name": "EasyList",
+    "countryCode": "ALL",
+    "link": ["https://easylist.to/easylist/easylist.txt", "https://dl.dropboxusercontent.com/s/mtjd7o9is7qz3mh/19.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/19.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "22",
     "name": "EasyList Germany",
     "countryCode": "DE",
-    "link": "https://easylist.to/easylistgermany/easylistgermany.txt",
+    "link": ["https://easylist.to/easylistgermany/easylistgermany.txt", "https://dl.dropboxusercontent.com/s/f5sw7hqsghha5n9/22.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/22.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "23",
     "name": "EasyList Italy",
     "countryCode": "IT",
-    "link": "https://easylist-downloads.adblockplus.org/easylistitaly.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/easylistitaly.txt", "https://dl.dropboxusercontent.com/s/5w1jtynjnx5ezqw/23.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/23.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "24",
     "name": "EasyList Dutch",
     "countryCode": "NL",
-    "link": "https://easylist-downloads.adblockplus.org/easylistdutch.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/easylistdutch.txt", "https://dl.dropboxusercontent.com/s/sf73jp8mdxdub7f/24.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/24.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "25",
     "name": "Liste FR",
     "countryCode": "FR",
-    "link": "https://easylist-downloads.adblockplus.org/liste_fr.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/liste_fr.txt", "https://dl.dropboxusercontent.com/s/5zxz9eq1gcvkbzx/25.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/25.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "26",
     "name": "EasyList China",
     "countryCode": "CN",
-    "link": "https://easylist-downloads.adblockplus.org/easylistchina.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/easylistchina.txt", "https://dl.dropboxusercontent.com/s/3ig6xjyndka78p3/26.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/26.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "27",
     "name": "Bulgarian adblock list",
     "countryCode": "BG",
-    "link": "https://stanev.org/abp/adblock_bg.txt",
+    "link": ["https://stanev.org/abp/adblock_bg.txt", "https://dl.dropboxusercontent.com/s/qokfqamehw9akty/27.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/27.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "28",
     "name": "ABPindo",
     "countryCode": "ID",
-    "link": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "link": ["https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt", "https://dl.dropboxusercontent.com/s/4wrn5kq138bhg7f/28.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/28.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "29",
     "name": "ABPindo",
     "countryCode": "MY",
-    "link": "https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "link": ["https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt", "https://dl.dropboxusercontent.com/s/4ata2jj0ikcdmtx/29.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/29.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "30",
     "name": "Liste AR",
     "countryCode": "EG",
-    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/Liste_AR.txt", "https://dl.dropboxusercontent.com/s/7zoyf1ygapcwr43/30.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/30.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "31",
     "name": "Liste AR",
     "countryCode": "KW",
-    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/Liste_AR.txt", "https://dl.dropboxusercontent.com/s/nuvrrrz4gsuvnlm/31.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/31.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "32",
     "name": "Liste AR",
     "countryCode": "QA",
-    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/Liste_AR.txt", "https://dl.dropboxusercontent.com/s/o4sftf4ctsc9jo8/32.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/32.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "33",
     "name": "Liste AR",
     "countryCode": "SA",
-    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/Liste_AR.txt", "https://dl.dropboxusercontent.com/s/l88hn1aunqzb2bj/33.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/33.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "34",
     "name": "Liste AR",
     "countryCode": "AE",
-    "link": "https://easylist-downloads.adblockplus.org/Liste_AR.txt",
+    "link": ["https://easylist-downloads.adblockplus.org/Liste_AR.txt", "https://dl.dropboxusercontent.com/s/h7n7aaszdnernm6/34.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/34.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "35",
     "name": "Easylist Czech",
     "countryCode": "CZ",
-    "link": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+    "link": ["https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt", "https://dl.dropboxusercontent.com/s/ge7ksrjh7l76gzm/35.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/35.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "36",
     "name": "Easylist Slovak",
     "countryCode": "SK",
-    "link": "https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt",
+    "link": ["https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt", "https://dl.dropboxusercontent.com/s/4n9ok9ferjde6hn/36.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/36.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "37",
     "name": "Latvian List",
     "countryCode": "LV",
-    "link": "https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt",
+    "link": ["https://notabug.org/latvian-list/adblock-latvian/raw/master/lists/latvian-list.txt", "https://dl.dropboxusercontent.com/s/7a6le3so9a51oyk/37.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/37.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "38",
     "name": "EasyList Hebrew",
     "countryCode": "IL",
-    "link": "https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt",
+    "link": ["https://raw.githubusercontent.com/easylist/EasyListHebrew/master/EasyListHebrew.txt", "https://dl.dropboxusercontent.com/s/cqm1m8r2iw4wa6n/38.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/38.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "39",
     "name": "EasyList Lithuania",
     "countryCode": "LT",
-    "link": "http://margevicius.lt/easylistlithuania.txt",
+    "link": ["http://margevicius.lt/easylistlithuania.txt", "https://dl.dropboxusercontent.com/s/cycych2edzpohwk/39.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/39.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "49",
     "name": "ABPindo",
     "countryCode": "ID",
-    "link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "link": ["https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt", "https://dl.dropboxusercontent.com/s/m7pt64o3k9tkpp0/49.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/49.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "50",
     "name": "ABPindo",
     "countryCode": "MY",
-    "link": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt",
+    "link": ["https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt", "https://dl.dropboxusercontent.com/s/vv1prfiv9l10ovl/50.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/50.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "51",
     "name": "AdBlockID",
     "countryCode": "ID",
-    "link": "https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt",
+    "link": ["https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt", "https://dl.dropboxusercontent.com/s/pn2a02385t4l89b/51.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/51.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "52",
     "name": "Adblock List for Finland",
     "countryCode": "FI",
-    "link": "https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt",
+    "link": ["https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt", "https://dl.dropboxusercontent.com/s/5aqms1fkdpmaqae/52.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/52.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "53",
     "name": "Adblock-Persian list",
     "countryCode": "IR",
-    "link": "https://ideone.com/K452p",
+    "link": ["https://ideone.com/plain/K452p", "https://dl.dropboxusercontent.com/s/agnrb0xos1j7kxo/53.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/53.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "55",
     "name": "Bulgarian adblock list",
     "countryCode": "BG",
-    "link": "https://stanev.org/abp/adblock_bg.txt",
+    "link": ["https://stanev.org/abp/adblock_bg.txt", "https://dl.dropboxusercontent.com/s/kgu7feqd5aa8rr3/55.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/55.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "56",
     "name": "CJX's EasyList Lite",
     "countryCode": "CN",
-    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjxlist.txt",
+    "link": ["https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjxlist.txt", "https://dl.dropboxusercontent.com/s/deusqv13te6acxe/56.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/56.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "57",
     "name": "CJX's uBlock list",
     "countryCode": "CN",
-    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjx-ublock.txt",
+    "link": ["https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-ublock.txt", "https://dl.dropboxusercontent.com/s/bp13z2v42izoew8/57.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/57.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "58",
     "name": "CJX's Annoyance List",
     "countryCode": "CN",
-    "link": "https://github.com/cjx82630/cjxlist/blob/master/cjx-annoyance.txt",
+    "link": ["https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt", "https://dl.dropboxusercontent.com/s/szbuon0nfz436nw/58.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/58.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "61",
     "name": "Adblock List for Albania",
     "countryCode": "AL",
-    "link": "https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt",
+    "link": ["https://raw.githubusercontent.com/AnXh3L0/blocklist/master/albanian-easylist-addition/Albania.txt", "https://dl.dropboxusercontent.com/s/uqftcb1apd42oj3/61.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/61.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "62",
+    "name": "Fanboy's Swedish",
+    "countryCode": "SE",
+    "link": ["https://www.fanboy.co.nz/fanboy-swedish.txt", "https://dl.dropboxusercontent.com/s/spmtdu7pat20f7w/62.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/62.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "63",
+    "name": "Fanboy's Swedish",
+    "countryCode": "FI",
+    "link": ["https://www.fanboy.co.nz/fanboy-swedish.txt", "https://dl.dropboxusercontent.com/s/1ibjih7i4ky1dya/63.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/63.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "65",
+    "name": "Fanboy's Spanish",
+    "countryCode": "ES",
+    "link": ["https://www.fanboy.co.nz/fanboy-espanol.txt", "https://dl.dropboxusercontent.com/s/51zfy5nrkg3hsjl/65.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/65.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "66",
+    "name": "Fanboy's Portuguese",
+    "countryCode": "PT",
+    "link": ["https://www.fanboy.co.nz/fanboy-espanol.txt", "https://dl.dropboxusercontent.com/s/cwuwm6qh0ess0l1/66.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/66.txt"],
+    "easylistType": "adFilter"
+  },
+  {
+    "filterId": "69",
+    "name": "Fanboy's Korean",
+    "countryCode": "KR",
+    "link": ["https://www.fanboy.co.nz/fanboy-korean.txt", "https://dl.dropboxusercontent.com/s/jqe82d4gkzka8o2/69.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/69.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "70",
-    "name": "Fanboy's Swedish",
-    "countryCode": "SE",
-    "link": "https://www.fanboy.co.nz/fanboy-swedish.txt",
+    "name": "Fanboy's Indian",
+    "countryCode": "IN",
+    "link": ["https://www.fanboy.co.nz/fanboy-indian.txt", "https://dl.dropboxusercontent.com/s/9teloq60kvxzr40/70.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/70.txt"],
     "easylistType": "adFilter"
   },
   {
     "filterId": "71",
-    "name": "Fanboy's Swedish",
-    "countryCode": "FI",
-    "link": "https://www.fanboy.co.nz/fanboy-swedish.txt",
-    "easylistType": "adFilter"
-  },
-  {
-    "filterId": "73",
-    "name": "Fanboy's Spanish",
-    "countryCode": "ES",
-    "link": "https://www.fanboy.co.nz/fanboy-espanol.txt",
-    "easylistType": "adFilter"
-  },
-  {
-    "filterId": "74",
-    "name": "Fanboy's Portuguese",
-    "countryCode": "PT",
-    "link": "https://www.fanboy.co.nz/fanboy-espanol.txt",
-    "easylistType": "adFilter"
-  },
-  {
-    "filterId": "77",
-    "name": "Fanboy's Korean",
-    "countryCode": "KR",
-    "link": "https://www.fanboy.co.nz/fanboy-korean.txt",
-    "easylistType": "adFilter"
-  },
-  {
-    "filterId": "78",
-    "name": "Fanboy's Indian",
-    "countryCode": "IN",
-    "link": "https://www.fanboy.co.nz/fanboy-indian.txt",
-    "easylistType": "adFilter"
-  },
-  {
-    "filterId": "79",
     "name": "Fanboy's Vietnamese",
     "countryCode": "VN",
-    "link": "https://www.fanboy.co.nz/fanboy-vietnam.txt",
+    "link": ["https://www.fanboy.co.nz/fanboy-vietnam.txt", "https://dl.dropboxusercontent.com/s/7cc5dzqv5wn2s4t/71.txt?dl=0", "https://raw.githubusercontent.com/matechmobile/ProtectAds/master/71.txt"],
     "easylistType": "adFilter"
   }
 ]
